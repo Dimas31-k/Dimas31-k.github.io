@@ -1,0 +1,13 @@
+body{
+    background: cyan;
+    background-image: url(../images/cat.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top right;
+}
+h1{
+    background-color: magenta;
+}
+p{
+    background-color: cyan;
+}
