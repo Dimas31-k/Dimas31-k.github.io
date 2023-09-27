@@ -1,0 +1,9 @@
+ol{
+    list-style-type: square;
+}
+ul{
+    list-style-type: decimal;
+    list-style: inside;
+    list-style-image: url(../images/фото\ 31-к.png);
+    background-position: 50% 50%;
+}
